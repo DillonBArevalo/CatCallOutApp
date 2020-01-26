@@ -11,7 +11,7 @@ CatCallOut is a civic tech initiative to make our streets safer. We are a team o
 ## MVP Functionality
 
 CatCallOut is built on a decoupled architecture featuring:
- * Rails API backend
+ * [Rails API backend](https://github.com/DillonBArevalo/CatCalloutAPI)
  * React Native frontend
 
 *Rails API backend features*
